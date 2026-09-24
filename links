@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>    
+<head>
+<title>page 3, lets us links about me and my irl work</title>
+</head>
+
+<body>
+
+<h1>About me</h1>
+<br>
+<p>Hi! My name is Sanjay and work at the goverment in Norway.</p>
+<p>Here is some links about meee and my porject in the goverment.</p>
+<img src="https://www.aktivigrorud.no/ungdyrk/" alt="Description of my project called Ungdyrk" width="104" height="142">
+
+
+</body>
+</html>
